@@ -1,0 +1,3 @@
+/Users/alexhughes/CLionProjects/Top_score_organizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexhughes/CLionProjects/Top_score_organizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexhughes/CLionProjects/Top_score_organizer/cmake-build-debug/CMakeFiles/Top_score_organizer.dir
